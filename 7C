@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1500000
+https://live-la4.aws-stream.com:9318/v3/QdKGAMiaSHbl3KkrfmgpJw/1748506348/529698337c6da588fd3e3a4d39815d28/3Jc1vr5NTdUyAsEBzyhcRw/1748527928/live/vx-origin/hd-ch7_720/chunks.m3u8
